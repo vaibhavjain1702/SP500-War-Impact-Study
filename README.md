@@ -60,6 +60,9 @@ streamlit run dashboard.py
 1. **Jupyter Notebook** — End-to-end analytical pipeline
 2. **Streamlit Dashboard** — Interactive presentation layer
 3. **Documentation** — Results interpretation and written reports
+   - [Final report (Word)](docs/SP500_War_Impact_Final_Report.docx)
+   - [Project summary (PDF)](SP500_War_Impact_Project_Master.pdf)
+   - [Results interpretation](RESULTS_INTERPRETATION.md)
 
 ## 👤 Author
 
