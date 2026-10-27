@@ -1,0 +1,26 @@
+# =============================================================
+# Financial Markets Project — Required Libraries
+# The S&P 500 War Impact Study
+# =============================================================
+
+# --- Core Data Handling ---
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0          
+
+# --- Data Download ---
+yfinance>=0.2.30         # Yahoo Finance API for market data
+
+# --- Visualization & Dashboard ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0           # Interactive charts for dashboard
+streamlit>=1.28.0        # Viva presentation dashboard
+
+# --- Statistical Analysis ---
+scipy>=1.10.0            # t-tests for event study significance
+
+# --- Utilities ---
+python-dateutil>=2.8.0
+tqdm>=4.65.0             
+jupyter>=1.0.0
